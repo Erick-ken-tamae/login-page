@@ -18,7 +18,7 @@ print('\nContagem:\n')
 
 for i in range(inicio, fim+1, passo):
     print(i)   
-    time.sleep(1)
+    time.sleep(0)
 
 print("\nFinalizado!")
 
